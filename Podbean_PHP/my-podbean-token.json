@@ -1,0 +1,7 @@
+{
+    "access_token": "***",
+    "expires_in": 604800,
+    "token_type": "Bearer",
+    "scope": "podcast_read episode_read podcast_update episode_publish",
+    "refresh_token": "***"
+}
