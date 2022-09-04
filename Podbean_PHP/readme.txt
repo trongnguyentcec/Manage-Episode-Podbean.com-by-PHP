@@ -6,7 +6,7 @@ I. AUTHENTICATION & SAVE ACCESS TOKEN & REFRESH TOKEN
 3. Run Podbean_PHP/index.php to copy "Redirect URL" 
 4. Paste  "Redirect URI" to (Development) & Redirect URI (Production) of Podbean App (on step 3)
 for example: Redirect URL = https://mysite.com/Podbean_PHP/2_podbean_auth_redirect.php
-5. Copy & pasts configs: to Podbean_PHP/src/Podbean/MyPodbeanAuth.php
+5. Copy & pasts configs: to Podbean_PHP/Podbean/MyPodbeanAuth.php
     + $client_id ="***"
     + $client_secret ="***"
     + $redirect_uri ="Redirect URL"
