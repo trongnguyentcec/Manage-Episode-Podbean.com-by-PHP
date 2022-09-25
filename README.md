@@ -1,6 +1,6 @@
 # Manage-Episode-Podbean.com-by-PHP
 # Step 1
-How to upload mp3 to Podbean
+How to upload mp3 to Podbean APIs by PHP
 
 I. AUTHENTICATION & SAVE ACCESS TOKEN & REFRESH TOKEN 
 (RUN ONLY ONCE)
